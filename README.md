@@ -1,3 +1,3 @@
 # firstWebsite
-<p>My website developer professor send to us a template of a website and asked to change texts, images, css and other things</p>
+<p>My website developer professor send an activity of a HTML template and asked to change images and texts</p>
 <p>so most of the things are not mine</p>
